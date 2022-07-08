@@ -1,6 +1,6 @@
 import PyPDF2
 import pyttsx3
-pdfReader = PyPDF2.PdfFileReader(open('Audiobook.pdf', 'rb'))
+pdfReader = PyPDF2.PdfFileReader(open('Sample.pdf', 'rb'))
 speaker = pyttsx3.init()
 
 for pageNum in range(pdfReader.numPages):
