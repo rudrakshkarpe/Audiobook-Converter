@@ -7,5 +7,4 @@
 ```rudrakshkarpe```
 ---
     
-    []: # Language: markdown
-    []: # Path: README.md
+    ### Made by rudrakshkarpe
